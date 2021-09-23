@@ -1,6 +1,10 @@
-@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Raleway:ital,wght@0,400;1,900&family=Nova+Script&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Raleway:ital,wght@0,400;1,900&family=Lobstert&display=swap);
+#Hero {
+    background-color: #F2F2F2;
+}
+
 .navbar-brand {
-    font-family: 'Nova Script', cursive;
+    font-family: 'Lobster', cursive;
     font-size: 1.5rem;
     padding-right: 1.5rem;
 }
@@ -21,6 +25,13 @@
 }
 
 .TitleCard {
-    font-family: 'Nova Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
     color: #56cc9d;
+}
+
+.centered {
+    position: absolute;
+    bottom: 5px;
+    left: 16px;
 }
