@@ -6862,7 +6862,7 @@ fieldset:disabled .btn {
     justify-content: center;
     width: 15%;
     padding: 0;
-    color: #fff;
+    color: rgb(83, 78, 78);
     text-align: center;
     background: 0 0;
     border: 0;
@@ -6881,7 +6881,7 @@ fieldset:disabled .btn {
 .carousel-control-next:hover,
 .carousel-control-prev:focus,
 .carousel-control-prev:hover {
-    color: #fff;
+    color: rgb(83, 78, 78);
     text-decoration: none;
     outline: 0;
     opacity: .9
@@ -6902,7 +6902,7 @@ fieldset:disabled .btn {
     height: 2rem;
     background-repeat: no-repeat;
     background-position: 50%;
-    background-size: 100% 100%
+    background-size: 100% 100%;
 }
 
 .carousel-control-prev-icon {
@@ -6941,7 +6941,7 @@ fieldset:disabled .btn {
     margin-left: 3px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #fff;
+    background-color: rgb(66, 58, 58);
     background-clip: padding-box;
     border: 0;
     border-top: 10px solid transparent;
